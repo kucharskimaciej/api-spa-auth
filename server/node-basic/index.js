@@ -24,7 +24,7 @@ server = http.createServer(function(req, res) {
 server.listen(3000);
 
 function decode(base64) {
-    return new Buffer(base64, 'base64').toString();
+    return base64 && new Buffer(base64, 'base64').toString();
 }
 
 function parse(authHeader) {
