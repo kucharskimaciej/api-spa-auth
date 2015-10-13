@@ -1,0 +1,18 @@
+{
+  "name": "auth-playground-hapi-bearer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maciej Kucharski",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^2.9.0",
+    "good": "^6.4.0",
+    "hapi": "^10.4.1",
+    "hoek": "^2.16.3",
+    "jsonwebtoken": "^5.4.0"
+  }
+}

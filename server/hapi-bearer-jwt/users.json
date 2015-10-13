@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "balance": "$1,436.24",
+    "name": "Morton Scott",
+    "email": "mortonscott@fiberox.com",
+    "phone": "+1 (858) 441-3662",
+    "about": "Est magna minim ipsum dolore ad. Eiusmod id do nulla id laboris id cupidatat incididunt velit. Ipsum velit exercitation labore irure cupidatat laborum ut minim fugiat. Enim consectetur minim culpa magna cillum quis excepteur ad. Elit dolore ut sint reprehenderit anim quis veniam non labore magna eu. Est ut cillum ut nostrud minim.\r\n",
+    "registered": "2015-01-17T07:02:41 -01:00",
+    "password": "quis"
+  },
+  {
+    "id": 1,
+    "balance": "$2,451.24",
+    "name": "Scott Lester",
+    "email": "scottlester@fiberox.com",
+    "phone": "+1 (843) 549-2381",
+    "about": "Elit incididunt tempor ea officia pariatur officia et dolore in ullamco laboris aute duis. Nulla consequat tempor eu id Lorem in aute irure deserunt ut. Est ad deserunt eiusmod ut. Ut in ad cupidatat duis sint aliqua id aute esse ad in ea. Incididunt cillum sit sunt quis deserunt adipisicing sit anim.\r\n",
+    "registered": "2015-02-28T03:07:34 -01:00",
+    "password": "adipisicing"
+  },
+  {
+    "id": 2,
+    "balance": "$2,255.67",
+    "name": "Cornelia Morris",
+    "email": "corneliamorris@fiberox.com",
+    "phone": "+1 (910) 566-3664",
+    "about": "Non culpa aliquip consequat cupidatat id velit id excepteur laboris adipisicing ut. Reprehenderit deserunt ipsum quis duis sit irure id veniam sint voluptate eu esse sunt. Culpa consequat ipsum id dolor et. Elit adipisicing consectetur consectetur occaecat officia. Occaecat duis mollit ullamco est excepteur tempor qui esse culpa.\r\n",
+    "registered": "2014-02-06T05:51:31 -01:00",
+    "password": "deserunt"
+  },
+  {
+    "id": 3,
+    "balance": "$3,231.99",
+    "name": "Brittany Knowles",
+    "email": "brittanyknowles@fiberox.com",
+    "phone": "+1 (928) 443-2861",
+    "about": "Amet velit laboris irure cupidatat labore incididunt sit. Ad laboris magna duis aliqua magna incididunt reprehenderit aliquip nulla fugiat dolor minim quis incididunt. Est amet elit voluptate aliqua veniam aliquip qui tempor dolore elit est.\r\n",
+    "registered": "2014-04-23T04:37:33 -02:00",
+    "password": "reprehenderit"
+  },
+  {
+    "id": 4,
+    "balance": "$3,163.10",
+    "name": "Christine Diaz",
+    "email": "christinediaz@fiberox.com",
+    "phone": "+1 (816) 540-2494",
+    "about": "Sint ullamco cillum do nisi duis sint mollit. Quis dolore id proident commodo velit enim velit aute labore aute exercitation incididunt deserunt commodo. Sint anim exercitation et Lorem laboris aute. Deserunt in id Lorem proident fugiat ullamco ea excepteur sit commodo ad ad reprehenderit. Incididunt magna nostrud in in irure incididunt ullamco cillum. Deserunt eu velit exercitation magna nostrud.\r\n",
+    "registered": "2015-06-09T07:44:59 -02:00",
+    "password": "aute"
+  },
+  {
+    "id": 5,
+    "balance": "$1,648.17",
+    "name": "Iris Rivas",
+    "email": "irisrivas@fiberox.com",
+    "phone": "+1 (983) 420-3662",
+    "about": "Nostrud enim commodo ea quis mollit ea minim. Consequat quis Lorem do voluptate adipisicing aliqua proident ea mollit. Ad qui duis ea excepteur commodo labore eu. Lorem tempor proident ad esse aliqua eu consectetur culpa Lorem culpa.\r\n",
+    "registered": "2015-03-09T02:41:16 -01:00",
+    "password": "pariatur"
+  }
+]
