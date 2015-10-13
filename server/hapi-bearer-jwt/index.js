@@ -79,7 +79,7 @@ server.register(Bearer, function(err) {
         config: {
             auth: 'jsonwebtoken',
             handler: function (request, reply) {
-                console.log("logout");
+                delete userTokenMap[request.auth.credentials.id];
                 reply(200);
             }
         }
